@@ -6,7 +6,7 @@ Papers We Love events are for anyone interested in Computer Science/Computer Eng
 
 **Be an adult, don't be a jerk.**
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-ups and at all Papers We Love events and interactions on the GitHub repository, IRC or [Slack](https://paperswelove.slack.com/messages/general/) channels.
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-ups and at all Papers We Love events and interactions on the [GitHub](https://github.com/papers-we-love/gothenburg) repository, IRC or [Slack](https://paperswelove.slack.com/messages/pwlgot/) channels.
 
 Need help?
 ----------
