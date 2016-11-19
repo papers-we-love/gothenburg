@@ -1,6 +1,6 @@
-# {Chapter} - Update this file and the code of conduct!
+# Gothenburg - Update this file and the code of conduct!
 
-This is the repository for the {Chapter} chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/gothenburg/blob/master/code-of-conduct.md).
+This is the repository for the Gothenburg chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/gothenburg/blob/master/code-of-conduct.md).
 
 ### Information
 
