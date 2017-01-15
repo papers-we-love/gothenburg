@@ -11,7 +11,7 @@ You can find information about our next meetup by joining/following us on:
 * Twitter: [@pwlgot](https://twitter.com/pwlgot)
 * Slack: #pwlgot channel at [https://paperswelove.slack.com/](https://paperswelove.slack.com/)
 
-More information to follow post the first meetup.
+Checkout: [What is PWL Gothenburg?](https://github.com/papers-we-love/gothenburg/blob/master/whatis.md)
 
 ### Contact
 
