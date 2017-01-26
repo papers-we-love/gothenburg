@@ -26,9 +26,3 @@ active [2] proctype P() {
 /*LTL formula*/
 ltl p { always (done implies range) }
 
-/*
-* generate verifier source, compile, run
-spin -run counter.pr 
-* simulation of trail
-spin -t counter.pr 
-*/
