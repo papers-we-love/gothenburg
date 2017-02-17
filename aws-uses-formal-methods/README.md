@@ -1,3 +1,7 @@
+### Paper
+
+The paper can be read online here: http://glat.info/pdf/formal-methods-amazon-2014-11.pdf
+
 ### Demo HOWTOs
 
 * Verify a PROMELA program using the model checker: ``spin -run program.pml``
