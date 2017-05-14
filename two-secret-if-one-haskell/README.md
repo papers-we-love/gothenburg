@@ -4,5 +4,5 @@ The paper can be read online here: http://www.cse.chalmers.se/~russo/publication
 
 ### Speaker
 
-[Alejandro Russo]("http://www.cse.chalmers.se/~russo/")
+[Alejandro Russo](http://www.cse.chalmers.se/~russo/)
 
