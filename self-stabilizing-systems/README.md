@@ -4,4 +4,4 @@ Download the paper here: https://github.com/papers-we-love/papers-we-love/raw/ma
 
 ### Speaker
 
-Kruthika Suresh Ved
+[Kruthika Suresh Ved](https://www.linkedin.com/in/ksved/)
